@@ -1,6 +1,5 @@
 # My Portfolio Theme
-A custom WordPress portfolio theme built with a **blue and black design**, responsive layout, and a dedicated **Projects section** to showcase GitHub repositories. Designed as a recruiter‑ready portfolio for web development internships and entry‑level roles.
-
+A custom WordPress portfolio theme built with a **blue and black design**, responsive layout, and a dedicated **Projects section** to showcase GitHub repositories.
 ---
 
 ## ✨ Features
