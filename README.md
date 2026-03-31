@@ -15,3 +15,5 @@ A custom WordPress portfolio theme built with a **blue and black design**, respo
 
 ## 📥 Installation
 1. Download or clone this repository
+
+![Homepage Screenshot](Screenshot.png)
